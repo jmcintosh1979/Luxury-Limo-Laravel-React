@@ -11,31 +11,32 @@
     },
     "devDependencies": {
         "@babel/preset-react": "^7.0.0",
-        "axios": "^0.18.0",
+        "axios": "^0.19.2",
         "babel-plugin-transform-class-properties": "^6.24.1",
         "bootstrap": "^4.3.1",
-        "cross-env": "^5.1",
-        "jquery": "^3.2",
-        "laravel-mix": "^4.0.7",
-        "lodash": "^4.17.5",
+        "cross-env": "^7.0.2",
+        "jquery": "^3.5.1",
+        "laravel-mix": "^5.0.4",
+        "lodash": "^4.17.15",
         "popper.js": "^1.12",
         "react": "^16.2.0",
         "react-dom": "^16.2.0",
-        "resolve-url-loader": "^2.3.1",
+        "resolve-url-loader": "^3.1.1",
         "sass": "^1.15.2",
-        "sass-loader": "^7.1.0"
+        "sass-loader": "^8.0.2"
     },
     "dependencies": {
         "google-maps-react": "^2.0.2",
+        "improved-yarn-audit": "^2.1.0",
         "react-bootstrap": "^1.0.0-beta.5",
-        "react-date-picker": "^7.2.0",
+        "react-date-picker": "^8.0.1",
         "react-datepicker": "^2.1.0",
         "react-day-picker": "^7.2.4",
-        "react-geocode": "^0.1.2",
+        "react-geocode": "^0.2.1",
         "react-google-autocomplete": "^1.0.18",
         "react-google-maps": "^9.4.5",
         "react-places-autocomplete": "^7.2.0",
         "react-places-autocomplete-extended": "^6.0.8",
-        "react-time-picker": "^3.2.0"
+        "react-time-picker": "^4.0.1"
     }
 }
